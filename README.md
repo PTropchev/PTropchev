@@ -2,10 +2,8 @@
 
 I'm a software developer focused on building reliable and scalable web solutions.
 
-- 🌐 Developing modern and dynamic websites  
-- 🐍 Backend with Python & Django  
-- ☕ Working with Java  
-- 💻 Tech stack: HTML, CSS, JavaScript, React, Node.js
+- 🌐 Developing modern and dynamic websites     
+- 💻 Working with: Python, Java, JavaScript, HTML, CSS, React, Node.js, PHP
 - ⚡ JavaScript for interactive and responsive interfaces  
 - 🚀 Deploying, hosting websites and managing domains  
 - 🧠 Always learning and improving  
